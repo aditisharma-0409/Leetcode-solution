@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
