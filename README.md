@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
