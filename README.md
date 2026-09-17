@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0941-valid-mountain-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1089-duplicate-zeros) |
