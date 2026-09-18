@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1089-duplicate-zeros) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
