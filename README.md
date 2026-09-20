@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
