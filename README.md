@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0941-valid-mountain-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditisharma-0409/Leetcode-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
